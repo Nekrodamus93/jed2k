@@ -52,12 +52,12 @@
     <string name="remove_torrent_and_data">Eliminar transferencia</string>
     <string name="search">Buscar</string>
     <string name="transfers">Transferencias</string>
-    <string name="dummy_title" translatable="false">[Título]</string>
-    <string name="dummy_status" translatable="false">[Estado]</string>
-    <string name="dummy_speed" translatable="false">[Velocidad]</string>
-    <string name="dummy_size" translatable="false">[Tamaño]</string>
+    <string name="dummy_title" translatable="false">[Title]</string>
+    <string name="dummy_status" translatable="false">[Status]</string>
+    <string name="dummy_speed" translatable="false">[Speed]</string>
+    <string name="dummy_size" translatable="false">[Size]</string>
     <string name="dummy_extra" translatable="false">[Extra]</string>
-    <string name="dummy_seeds" translatable="false">[Fuentes]</string>
+    <string name="dummy_seeds" translatable="false">[Seeds]</string>
     <string name="yes_no_cancel_transfer_question">¿Estás seguro de que deseas detener y eliminar esta descarga de la lista?</string>
     <string name="yes_no_cancel_delete_transfer_question">¿Estás seguro de que deseas cancelar esta descarga?</string>
     <string name="yes_no_dialog_remove_file">Eliminar archivo</string>
@@ -70,15 +70,15 @@
     <string name="transfers_max_total_connections_summary">Conexiones totales máximas</string>
     <string name="transfers_max_total_connections">Conexiones totales máximas</string>
     <string name="search_block_action">Bloquear resultado de búsqueda</string>
-    <string name="dummy_summary" translatable="false">[Resumen]</string>
-    <string name="dummy_engine" translatable="false">[Motor]</string>
+    <string name="dummy_summary" translatable="false">[Summary]</string>
+    <string name="dummy_engine" translatable="false">[Engine]</string>
     <string name="complete_sources">Completo %1$d</string>
     <string name="show_transfers_on_download_start">Mostrar transferencias al iniciar la descarga</string>
     <string name="dialog_new_transfer_text_text">¿Estás seguro de que deseas descargar %1$s (%2$s)?</string>
     <string name="dialog_new_transfer_check_text">Mostrar esto la próxima vez</string>
     <string name="show_new_transfer_dialog">Mostrar diálogo de nueva transferencia</string>
-    <string name="dummy_action" translatable="false">[Acción]</string>
-    <string name="dummy_content_description" translatable="false">[descripción ficticia]</string>
+    <string name="dummy_action" translatable="false">[Action]</string>
+    <string name="dummy_content_description" translatable="false">[dummy description]</string>
     <string name="toast_on_disconnect">La sesión ED2K se detuvo. Todas las transferencias se han detenido.</string>
     <string name="toast_on_connect">La sesión ED2K ha comenzado.</string>
     <string name="seeds_n">Fuentes: %s</string>
@@ -121,7 +121,7 @@
     <string name="finishing">Finalizando</string>
     <string name="app_shutdown_dlg_title">Apagado</string>
     <string name="app_shutdown_dlg_message">Esto apagará todas las transferencias y los servicios en segundo plano. ¿Estás seguro?</string>
-    <string name="dummy_build" translatable="false">[número de compilación]</string>
+    <string name="dummy_build" translatable="false">[build number]</string>
     <string name="try_other_keywords">Prueba con menos/diferentes palabras clave</string>
     <string name="try_frostwire_plus_for_more_results" translatable="false">Prueba Mula en Android para obtener más resultados</string>
     <string name="your_installation_is_complete">Tu instalación está completa.</string>
